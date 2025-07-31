@@ -8,7 +8,7 @@
 
 ## 💼 About Me
 
-- 🎓 Completed LinkedIn Learning certifications in SQL
+- 🎓 Completed LinkedIn Learning certifications in Data Analytics
 - 🔍 Finalized SQL project: **ShopSphere – A Complete E-Commerce SQL Engine**  
   (Includes: 10 tables, 20 joins, views, stored procedures, triggers – built using MySQL Workbench)  
 - 📈 Interested in roles like: **Data Analyst | Product Analyst | Pre-Sales Analytics**  
