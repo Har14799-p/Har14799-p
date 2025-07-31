@@ -24,7 +24,7 @@ Includes complex joins, triggers, stored procedures, and views
 
 - Built with: MySQL Workbench  
 - Covers: Orders, Products, Customers, Payments, Refunds  
-- [🔗 GitHub Repository](#) *((https://github.com/Har14799-p/MySQL-Ecommerce-Project)]*
+- [🔗https://github.com/Har14799-p/MySQL-Ecommerce-Project]
 
 ---
 
@@ -38,8 +38,8 @@ Includes complex joins, triggers, stored procedures, and views
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](www.linkedin.com/in/harshini-p-54a62b231)]
-✉️ Email: harshini.p14799@gmail.com
+LinkedIn: www.linkedin.com/in/harshini-p-54a62b231
+ Email: harshini.p14799@gmail.com
 
 ---
 
