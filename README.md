@@ -18,7 +18,7 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 **ShopSphere – E-Commerce SQL Engine**
+### 🛒 **ShopSphere – A Complete E-Commerce SQL Engine**
 An end-to-end e-commerce database built using MySQL  
 Includes complex joins, triggers, stored procedures, and views  
 
