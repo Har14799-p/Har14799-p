@@ -1,6 +1,6 @@
 <h2>👋 Hi there, I'm Harshini P.</h2>
 
-🎯 Transitioning from Quality Assurance (Manual Testing) to Data Analytics  
+🎯 Transitioning from Quality Assurance to Data Analytics  
 🔍 Passionate about solving business problems using data-driven insights  
 📚 3+ years experience in QA | Learning SQL, Power BI, Excel, Statistics  
 
@@ -39,7 +39,8 @@ Includes complex joins, triggers, stored procedures, and views
 ## 🤝 Let's Connect!
 
 LinkedIn: www.linkedin.com/in/harshini-p-54a62b231
- Email: harshini.p14799@gmail.com
+
+Email: harshini.p14799@gmail.com
 
 ---
 
