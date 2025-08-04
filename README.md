@@ -25,7 +25,7 @@ Includes complex joins, triggers, stored procedures, and views
 ## 🛠 Tech Stack
 
 **Languages & Tools:**  
-`SQL` `Power BI` `MS Excel` `MySQL Workbench`  
+`SQL` `Power BI` `MS Excel` `MySQL Workbench` `Python`  
 `GitHub` `Manual Testing Tools`
 
 ## 🤝 Let's Connect!
