@@ -2,7 +2,7 @@
 
 ## Data Analyst | SQL • Power BI • Python • Excel | E-commerce Analytics
 
-I am a **Data Analyst** with **1 year of hands-on analytics experience** and **4 years of Quality Assurance experience** in the e-commerce domain, bringing **5 years of combined data and analytical experience**.
+I am a **Data Analyst** with **1 year of hands-on analytics experience** and **4 years of Quality Assurance experience** in the e-commerce domain, bringing **4 years of combined data and analytical experience**.
 
 I specialize in transforming raw business data into meaningful insights through **SQL, Power BI, Python, and Excel**. My background in Quality Assurance has given me a strong foundation in **data validation, data quality, root cause analysis, and analytical problem-solving**, enabling me to build reliable reports and dashboards that support business decision-making.
 
