@@ -1,14 +1,12 @@
-# 👋 Hi, I'm Harshini P
+**👋 Hi, I'm Harshini P**
 
-## Data Analyst | SQL • Power BI • Python • Excel | E-commerce Analytics
+**Data Analyst | SQL • Power BI • Python • Excel | E-commerce Analytics**
 
 I am a **Data Analyst** with **1 year of hands-on analytics experience** and **4 years of Quality Assurance experience** in the e-commerce domain, bringing **4 years of combined data and analytical experience**.
 
 I specialize in transforming raw business data into meaningful insights through **SQL, Power BI, Python, and Excel**. My background in Quality Assurance has given me a strong foundation in **data validation, data quality, root cause analysis, and analytical problem-solving**, enabling me to build reliable reports and dashboards that support business decision-making.
 
----
-
-## 💼 Professional Summary
+**💼 Professional Summary**
 
 * 📊 Analyze transactional, customer, sales, payment, shipment, and operational data.
 * 🗄️ Write complex SQL queries using joins, aggregations, subqueries, window functions, views, stored procedures, and triggers.
@@ -18,15 +16,13 @@ I specialize in transforming raw business data into meaningful insights through 
 * 🤝 Collaborate with developers, product owners, and business stakeholders to improve reporting quality and support data-driven decisions.
 * ⚡ Automate reporting workflows using n8n and AI-assisted productivity tools.
 
----
+**🚀 Featured Projects**
 
-# 🚀 Featured Projects
-
-## 🛒 ShopSphere – End-to-End E-commerce SQL Analytics
+**🛒 ShopSphere – End-to-End E-commerce SQL Analytics**
 
 A complete e-commerce analytics project built using MySQL to analyze customer behavior, sales performance, payments, shipments, refunds, and business KPIs.
 
-### Highlights
+**Highlights**
 
 * Designed an end-to-end relational database
 * Created 10 business tables
@@ -41,13 +37,11 @@ A complete e-commerce analytics project built using MySQL to analyze customer be
 🔗 Repository:
 https://github.com/Har14799-p/MySQL-Ecommerce-Project
 
----
-
-## 📊 Sales & Business Performance Dashboard
+**📊 Sales & Business Performance Dashboard**
 
 Interactive Power BI dashboard built to monitor sales performance and business KPIs.
 
-### Dashboard Features
+**Dashboard Features**
 
 * Executive KPI Dashboard
 * Sales & Profit Analysis
@@ -63,13 +57,11 @@ Interactive Power BI dashboard built to monitor sales performance and business K
 🔗 Repository:
 https://github.com/Har14799-p/Superstore_Sales_Performance_Dashboard
 
----
-
-## 💰 Financial Performance Dashboard
+**💰 Financial Performance Dashboard**
 
 A Power BI dashboard focused on financial reporting and profitability analysis.
 
-### Key Insights
+**Key Insights**
 
 * Revenue Analysis
 * Profitability Trends
@@ -81,13 +73,11 @@ A Power BI dashboard focused on financial reporting and profitability analysis.
 
 `Power BI` • `DAX` • `Power Query`
 
----
-
-## 🐍 Python Data Analysis & EDA
+**🐍 Python Data Analysis & EDA**
 
 Performed data cleaning, exploratory data analysis, and business insight generation using Python.
 
-### Highlights
+**Highlights**
 
 * Data Cleaning
 * Missing Value Treatment
@@ -108,11 +98,9 @@ Performed data cleaning, exploratory data analysis, and business insight generat
 🔗 Repository:
 https://github.com/Har14799-p/Superstore-Data-Cleaning
 
----
+**🛠 Technical Skills**
 
-# 🛠 Technical Skills
-
-### Databases
+Databases
 
 * MySQL
 * SQL
@@ -124,7 +112,7 @@ https://github.com/Har14799-p/Superstore-Data-Cleaning
 * Stored Procedures
 * Triggers
 
-### Business Intelligence
+**Business Intelligence**
 
 * Power BI
 * DAX
@@ -133,14 +121,14 @@ https://github.com/Har14799-p/Superstore-Data-Cleaning
 * Drill-through Reports
 * KPI Reporting
 
-### Programming
+**Programming**
 
 * Python
 * Pandas
 * NumPy
 * Matplotlib
 
-### Excel
+**Excel**
 
 * Pivot Tables
 * XLOOKUP
@@ -149,7 +137,7 @@ https://github.com/Har14799-p/Superstore-Data-Cleaning
 * Conditional Formatting
 * Charts
 
-### Analytics
+**Analytics**
 
 * Data Cleaning
 * Data Transformation
@@ -160,7 +148,7 @@ https://github.com/Har14799-p/Superstore-Data-Cleaning
 * Trend Analysis
 * ETL Concepts
 
-### Tools
+**Tools**
 
 * Git & GitHub
 * n8n
@@ -172,18 +160,14 @@ https://github.com/Har14799-p/Superstore-Data-Cleaning
 * Claude
 * Gemini
 
----
-
-# 📜 Certifications
+**📜 Certifications**
 
 * Data Analyst – Skill India
 * Power BI Live Training
 * Learning Data Analytics 1: Foundation
 * Statistics Foundations 1: Basics
 
----
-
-# 📈 Current Focus
+**📈 Current Focus**
 
 * Advanced Power BI Dashboard Development
 * Business Intelligence Reporting
@@ -192,9 +176,7 @@ https://github.com/Har14799-p/Superstore-Data-Cleaning
 * Workflow Automation using n8n
 * AI-assisted Data Analytics
 
----
-
-# 🤝 Let's Connect
+**🤝 Let's Connect**
 
 📧 **Email**
 [harshini.p14799@gmail.com](mailto:harshini.p14799@gmail.com)
@@ -205,7 +187,6 @@ https://www.linkedin.com/in/harshinip14/
 💻 **GitHub**
 https://github.com/Har14799-p
 
----
 
 ⭐ Thank you for visiting my GitHub profile.
 
