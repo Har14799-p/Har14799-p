@@ -1,79 +1,212 @@
-<h2>👋 Hi there, I'm Harshini P.</h2>
+# 👋 Hi, I'm Harshini P
 
-🎯 Transitioning from Quality Assurance to Data Analytics 
+## Data Analyst | SQL • Power BI • Python • Excel | E-commerce Analytics
 
-🔍 Passionate about transforming data into actionable business insights and driving data-informed decisions.
+I am a **Data Analyst** with **1 year of hands-on analytics experience** and **4 years of Quality Assurance experience** in the e-commerce domain, bringing **5 years of combined data and analytical experience**.
 
-💡 With 3+ years of experience as a QA professional, I bring strong analytical thinking, attention to detail, and problem-solving skills , now fully transitioned into the field of Data Analytics.
+I specialize in transforming raw business data into meaningful insights through **SQL, Power BI, Python, and Excel**. My background in Quality Assurance has given me a strong foundation in **data validation, data quality, root cause analysis, and analytical problem-solving**, enabling me to build reliable reports and dashboards that support business decision-making.
 
-## 💼 About Me
+---
 
-🎓 Completed multiple LinkedIn Learning certifications in Data Analytics and Statistics.
+## 💼 Professional Summary
 
-📊 Gained hands-on experience in SQL, Power BI, Excel, and Python through real-world projects and datasets.
+* 📊 Analyze transactional, customer, sales, payment, shipment, and operational data.
+* 🗄️ Write complex SQL queries using joins, aggregations, subqueries, window functions, views, stored procedures, and triggers.
+* 📈 Build interactive Power BI dashboards for executive reporting and KPI monitoring.
+* 📑 Perform data cleaning, transformation, validation, and exploratory data analysis using Python and Excel.
+* 📉 Deliver business insights through trend analysis, performance reporting, and data visualization.
+* 🤝 Collaborate with developers, product owners, and business stakeholders to improve reporting quality and support data-driven decisions.
+* ⚡ Automate reporting workflows using n8n and AI-assisted productivity tools.
 
-🛠️ Finalized my capstone SQL project “ShopSphere – A Complete E-Commerce SQL Engine” using MySQL Workbench.
+---
 
-📈 Currently exploring advanced data visualization and business intelligence dashboards.
+# 🚀 Featured Projects
 
-✅ Now ready to join as a Data Analyst to contribute insights and data solutions that drive business growth.
+## 🛒 ShopSphere – End-to-End E-commerce SQL Analytics
 
-## 🚀 Featured Projects
+A complete e-commerce analytics project built using MySQL to analyze customer behavior, sales performance, payments, shipments, refunds, and business KPIs.
 
-### 🛒 **ShopSphere – A Complete E-Commerce SQL Engine**
+### Highlights
 
-An end-to-end e-commerce database built using MySQL, designed to analyze customer behavior, order trends, and revenue performance.
+* Designed an end-to-end relational database
+* Created 10 business tables
+* Implemented 20+ complex SQL queries
+* Developed Views, Stored Procedures, and Triggers
+* Performed KPI analysis including Revenue, AOV, Refund Rate, Customer Performance, and Category Performance
 
-**Highlights**: 10 tables | 20 joins | 5 views | 5 stored procedures | 5 triggers
+**Tech Stack**
 
-Handles customer orders, payments, shipments, refunds, and reviews
+`MySQL` • `SQL` • `Database Design`
 
-**Tech**: MySQL Workbench | SQL Queries | Data Modeling
+🔗 Repository:
+https://github.com/Har14799-p/MySQL-Ecommerce-Project
 
-[🔗https://github.com/Har14799-p/MySQL-Ecommerce-Project]
-  
-### 📊 **Power BI Dashboard – Sales Performance Insights**
+---
 
-An interactive Power BI dashboard providing insights into sales performance, customer segmentation, and regional trends.
+## 📊 Sales & Business Performance Dashboard
 
-**Highlights**: Data cleaning and transformation in Power Query
+Interactive Power BI dashboard built to monitor sales performance and business KPIs.
 
-**KPIs**: Total Sales, Profit Margin, Customer Growth, and Region-wise Sales
+### Dashboard Features
 
-**Tech**: Power BI | DAX | Excel | Data Visualization
+* Executive KPI Dashboard
+* Sales & Profit Analysis
+* Category Performance
+* Regional Performance
+* Customer Insights
+* Interactive Filters and Drill-through
 
-[🔗https://github.com/Har14799-p/Superstore_Sales_Performance_Dashboard]
+**Tech Stack**
 
-### 🐍 **Python Data Analysis – Superstore Data Cleaning**
+`Power BI` • `Power Query` • `DAX` • `Excel`
 
-Performing data cleaning, exploratory data analysis (EDA), and visualization on Superstore dataset.
+🔗 Repository:
+https://github.com/Har14799-p/Superstore_Sales_Performance_Dashboard
 
-**Highlights:**
+---
 
-**Libraries**: Pandas, NumPy, Matplotlib, Seaborn
+## 💰 Financial Performance Dashboard
 
-Focused on profit optimization and sales forecasting
+A Power BI dashboard focused on financial reporting and profitability analysis.
 
-**Tech**: Python | Data Analysis | Visualization
+### Key Insights
 
-[🔗https://github.com/Har14799-p/Superstore-Data-Cleaning]
+* Revenue Analysis
+* Profitability Trends
+* YoY Growth
+* Category-wise Revenue
+* Business Performance KPIs
 
-### 🛠 **Tech Stack**
+**Tech Stack**
 
-**Languages & Tools:**
+`Power BI` • `DAX` • `Power Query`
 
-SQL | Power BI | MS Excel | MySQL Workbench | Python | GitHub | Manual Testing Tools
+---
 
-**Areas of Expertise:**
+## 🐍 Python Data Analysis & EDA
 
-Data Cleaning | Dashboarding | Reporting | EDA | BI Solutions | Problem Solving
+Performed data cleaning, exploratory data analysis, and business insight generation using Python.
 
-### 🤝 **Let’s Connect**
+### Highlights
 
-📫 Email: harshini.p14799@gmail.com
+* Data Cleaning
+* Missing Value Treatment
+* Exploratory Data Analysis
+* Sales & Profit Analysis
+* Business Visualizations
 
-💼 LinkedIn: [https://www.linkedin.com/in/harshinip14/]
+**Libraries**
 
-💻 GitHub: [https://github.com/Har14799-p/]
+* Pandas
+* NumPy
+* Matplotlib
 
-✨ Thanks for visiting my profile! Open to exciting opportunities as a Data Analyst or Business Analyst.
+**Tech Stack**
+
+`Python` • `Pandas` • `NumPy` • `Matplotlib`
+
+🔗 Repository:
+https://github.com/Har14799-p/Superstore-Data-Cleaning
+
+---
+
+# 🛠 Technical Skills
+
+### Databases
+
+* MySQL
+* SQL
+* Joins
+* Aggregations
+* Subqueries
+* Window Functions
+* Views
+* Stored Procedures
+* Triggers
+
+### Business Intelligence
+
+* Power BI
+* DAX
+* Power Query
+* Dashboard Design
+* Drill-through Reports
+* KPI Reporting
+
+### Programming
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+
+### Excel
+
+* Pivot Tables
+* XLOOKUP
+* INDEX-MATCH
+* Advanced Formulas
+* Conditional Formatting
+* Charts
+
+### Analytics
+
+* Data Cleaning
+* Data Transformation
+* Data Validation
+* Business Reporting
+* MIS Reporting
+* Root Cause Analysis
+* Trend Analysis
+* ETL Concepts
+
+### Tools
+
+* Git & GitHub
+* n8n
+* Jira
+* Asana
+* Postman
+* Google Sheets
+* ChatGPT
+* Claude
+* Gemini
+
+---
+
+# 📜 Certifications
+
+* Data Analyst – Skill India
+* Power BI Live Training
+* Learning Data Analytics 1: Foundation
+* Statistics Foundations 1: Basics
+
+---
+
+# 📈 Current Focus
+
+* Advanced Power BI Dashboard Development
+* Business Intelligence Reporting
+* SQL Performance Optimization
+* Python for Data Analytics
+* Workflow Automation using n8n
+* AI-assisted Data Analytics
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email**
+[harshini.p14799@gmail.com](mailto:harshini.p14799@gmail.com)
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/harshinip14/
+
+💻 **GitHub**
+https://github.com/Har14799-p
+
+---
+
+⭐ Thank you for visiting my GitHub profile.
+
+I enjoy building data-driven solutions that help organizations make informed business decisions through analytics, reporting, automation, and visualization.
